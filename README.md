@@ -1,4 +1,4 @@
-pdfminer.six
+ pdfminer.six
 ============
 
 [![Continuous integration](https://github.com/pdfminer/pdfminer.six/actions/workflows/actions.yml/badge.svg)](https://github.com/pdfminer/pdfminer.six/actions/workflows/actions.yml)
